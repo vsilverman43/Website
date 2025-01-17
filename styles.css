@@ -1,0 +1,50 @@
+body{
+    background-color: lightseagreen;
+    
+}
+
+#name{
+    font-family:'Courier New', Courier, monospace;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+}
+
+#desc{
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#overwatch:hover{
+    box-shadow: 0 12px 16px 0 rgba(183, 214, 6, 0.3), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+
+#overwatch{
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    padding: 12px 28px;
+    margin: 80px 1150px;
+}
+
+#Marvel_Rivals{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+    padding: 12px 28px;
+    margin: -130px 1300px;
+}
+#Marvel_Rivals:hover{
+    box-shadow: 0 12px 16px 0 rgba(183, 214, 6, 0.3), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: #04AA6D; /* Green */
+    color: white;
+
+}
+
+#vid1{
+    margin: 80px 1150px;
+}
